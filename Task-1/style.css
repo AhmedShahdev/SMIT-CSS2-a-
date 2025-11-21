@@ -1,0 +1,30 @@
+#headingbox h1{
+    text-align: center;
+    margin: 10% 0% 2% 0%;
+}
+
+#center{
+    text-align: center;
+}
+
+.boxes{
+    width: 20%;
+    border: 2px solid black;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+}
+
+.boxes img{
+    width: 20%;
+    margin: 5%;
+}
+
+.boxbtn{
+    color: white;
+    background-color: black;
+    width: 50%;
+    margin: 5% 0px 5% 0px;
+    border-radius: 20px;
+    padding: 10px;
+}
